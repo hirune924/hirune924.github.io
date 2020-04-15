@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+{% post_url 2020-04-15-hello %}
 ## Header 2
 ### Header 3
 
