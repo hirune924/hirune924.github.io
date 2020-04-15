@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-{% post_url 2020-04-15-hello %}
+[Name of Link]({% post_url 2020-04-15-hello %})
 
 ```markdown
 Syntax highlighted code block
