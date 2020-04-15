@@ -11,6 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [Name of Link]({% post_url 2020-04-15-hello %})
 
+[Name of Link](another-page.md)
 ```markdown
 Syntax highlighted code block
 
