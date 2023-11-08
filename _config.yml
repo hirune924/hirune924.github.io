@@ -1,3 +1,6 @@
-title: [The title of your site]
-description: [A short description of your site's purpose]
-theme: jekyll-theme-cayman
+title: hirune924's page
+logo: /assets/img/DSC01017.jpg
+description: Minimal is a theme for GitHub Pages.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
