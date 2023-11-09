@@ -1,10 +1,17 @@
 ---
 layout: default
 ---
-# Keyword
 # Profile
+# Keyword
 # Award
 # Career
+# Development
+* [vtracerpy](https://pypi.org/project/vtracerpy/)
+    * ラスター画像をsvgにtraceするRust製ライブラリvtracerのpython binding
+* [streamlit-image-annotation](https://pypi.org/project/streamlit-image-annotation/)
+    * 画像アノテーションのためのstreamlitコンポーネント
+* [imgaugtf](https://pypi.org/project/imgaugtf/)
+    * Tensorflowで実装されたTPUで動作する画像augmentationライブラリ
 # Paper
 * [Standardized Classification of Lung Adenocarcinoma Subtypes and Improvement of Grading Assessment Through Deep Learning](https://www.sciencedirect.com/science/article/abs/pii/S0002944023002730)
 * [Large-Scale Pretraining on Pathological Images for Fine-Tuning of Small Pathological Benchmarks](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_25)
