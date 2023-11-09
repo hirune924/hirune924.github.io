@@ -3,8 +3,17 @@ layout: default
 ---
 # Profile
 # Keyword
-# Award
+
 # Career
+
+# Award
+* [Kaggle/Google Universal Image Embedding 5th](https://www.kaggle.com/competitions/google-universal-image-embedding) [[Solution](https://www.kaggle.com/competitions/google-universal-image-embedding/discussion/359161)]
+* [Kaggle/SETI Breakthrough Listen - E.T. Signal Search 2nd](https://www.kaggle.com/competitions/seti-breakthrough-listen) [[Solution](https://www.kaggle.com/competitions/seti-breakthrough-listen/discussion/266397)]
+* [Kaggle/Prostate cANcer graDe Assessment (PANDA) Challenge 4th & Best generalization performance award](https://www.kaggle.com/competitions/prostate-cancer-grade-assessment) [[Solution](https://www.kaggle.com/competitions/prostate-cancer-grade-assessment/discussion/169113)]
+* [CodaLab/AutoSpeech 2019 Competition 3rd](https://www.4paradigm.com/content/details_85_1863.html)
+* [kaggle/Quick, Draw! Doodle Recognition Challenge 6th](https://www.kaggle.com/competitions/quickdraw-doodle-recognition)
+* [SIGNATE/海洋研究開発機構 熱帯低気圧（台風等）検出アルゴリズム作成 3rd](https://signate.jp/competitions/134)
+
 # Development
 * [vtracerpy](https://pypi.org/project/vtracerpy/)
     * ラスター画像をsvgにtraceするRust製ライブラリvtracerのpython binding
@@ -12,7 +21,7 @@ layout: default
     * 画像アノテーションのためのstreamlitコンポーネント
 * [imgaugtf](https://pypi.org/project/imgaugtf/)
     * Tensorflowで実装されたTPUで動作する画像augmentationライブラリ
-    
+
 # Paper
 * [Standardized Classification of Lung Adenocarcinoma Subtypes and Improvement of Grading Assessment Through Deep Learning](https://www.sciencedirect.com/science/article/abs/pii/S0002944023002730)
 * [Large-Scale Pretraining on Pathological Images for Fine-Tuning of Small Pathological Benchmarks](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_25)
@@ -29,6 +38,7 @@ layout: default
 * [NSSOL、NEDO「人と共に進化する次世代人工知能に関する技術開発事業」採択の研究プロジェクトを開始](https://www.nssol.nipponsteel.com/press/2020/20201028_110000.html)
 * [NSSOLチーム、世界的なデータ分析コンペKaggleで第4位](https://www.nssol.nipponsteel.com/press/2020/20200827_130000.html)
 * [NSSOL若手研究員チームがAutoML世界大会入賞](https://www.nssol.nipponsteel.com/future/stories/automl-01.html)
+* [NSSOL有志社員チームがAI/機械学習の世界コンペティションで第3位](https://www.nssol.nipponsteel.com/press/2019/20191225_130000.html)
 * [Kaggle世界ランク6位をマークしたNSSOL Deep Learning研究チームの力とは](https://www.nssol.nipponsteel.com/future/stories/kamonohashi-02.html)
 
 
