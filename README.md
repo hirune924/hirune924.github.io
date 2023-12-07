@@ -1,5 +1,5 @@
 # Profile
 https://hirune924.github.io/
 
-# for detail information
+# Detail information
 https://github.com/hirune924/career
