@@ -2,7 +2,7 @@
 layout: default
 ---
 # Profile
-大学では情報工学を専攻し、大学院では京コンピュータを用いた量子化学の超並列計算プログラムの研究開発に取り組む。その後NSSOLに入社し画像認識を中心としたDeep Learning技術の研究開発を行い、製造業や医療分野など様々な画像認識システムの開発に取り組む。Kaggleを中心としたデータ分析コンペティションに取り組み263人目のKaggle Competition Grandmasterを獲得。その他にも自作OSSライブラリを公開するなどの活動も趣味で行っている。学生時代には漕艇部に所属し、その後も様々なコミュニティ運営活動に携わる。その経験からチームでの作業や組織作りが好き。
+大学では情報工学を専攻し、大学院では京コンピュータを用いた量子化学の超並列計算プログラムの研究開発に取り組む。その後NSSOLに入社し画像認識を中心としたDeep Learning技術の研究開発を行い、製造業や医療分野など様々な画像認識システムの開発に取り組む。Kaggleを中心としたデータ分析コンペティションに取り組み263人目のKaggle Competition Grandmasterを獲得。その他にも自作OSSライブラリを公開するなどの活動も趣味で行っている。学生時代には漕艇部に所属し、その後もChainer User group, DLLABなど様々なコミュニティ運営活動に携わる。
 
 # Career
 
@@ -47,3 +47,4 @@ layout: default
 * [NSSOL若手研究員チームがAutoML世界大会入賞](https://www.nssol.nipponsteel.com/future/stories/automl-01.html)
 * [NSSOL有志社員チームがAI/機械学習の世界コンペティションで第3位](https://www.nssol.nipponsteel.com/press/2019/20191225_130000.html)
 * [Kaggle世界ランク6位をマークしたNSSOL Deep Learning研究チームの力とは](https://www.nssol.nipponsteel.com/future/stories/kamonohashi-02.html)
+* [AIモデルを用いた病理診断の標準化](https://www.haigan.gr.jp/journal/am/2023a/23a_gol140O14-1.html)
